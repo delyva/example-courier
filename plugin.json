@@ -1,0 +1,5 @@
+{
+  "name": "Example Plugin",
+  "description": "Example courier integration",
+  "pluginPath": "example-courier"
+}
